@@ -16,3 +16,16 @@ Grafen viser et markant spring i psykiatriomkostningerne i årene op til og umid
 Grafen visualiserer de samlede sundhedsomkostninger og fremhæver det voldsomme peak i det første år efter diagnosetidspunktet.
 
 ![Samlede omkostninger](Total-omkostninger.png)
+
+
+
+
+
+
+
+
+markdown
+## Kildehenvisning (Data Source)
+Data anvendt i dette projekt stammer fra følgende videnskabelige undersøgelse:
+
+* Ehlers, L. H., Axelsen, F., Bøjer Rasmussen, T., Dollerup, J., Jespersen, N. A.
