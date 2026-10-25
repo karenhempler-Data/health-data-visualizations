@@ -24,7 +24,7 @@ Grafen visualiserer de samlede sundhedsomkostninger og fremhæver det voldsomme 
 
 
 
-markdown
+
 ## Kildehenvisning (Data Source)
 Data anvendt i dette projekt stammer fra følgende videnskabelige undersøgelse:
 
