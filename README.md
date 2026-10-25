@@ -10,9 +10,9 @@ Dette projekt indeholder Python-scripts kodet med `matplotlib` til at analysere 
 ### 1. Gennemsnitlige årlige psykiatriomkostninger per person (DKK)
 Grafen viser et markant spring i psykiatriomkostningerne i årene op til og umiddelbart efter hiv-diagnosen.
 
-![Psykiatriomkostninger](psykiatri-omkostninger)
+![Psykiatriomkostninger](Psykiatri-omkostninger.png)
 
 ### 2. Gennemsnitlige årlige samlede omkostninger per person (DKK)
 Grafen visualiserer de samlede sundhedsomkostninger og fremhæver det voldsomme peak i det første år efter diagnosetidspunktet.
 
-![Samlede omkostninger](total-omkostninger)
+![Samlede omkostninger](Total-omkostninger.png)
